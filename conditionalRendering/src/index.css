@@ -1,0 +1,17 @@
+.welcome{
+  background-color: blue;
+  color: white;
+  margin: 0%;
+  padding: 10px;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.prompt{
+  background-color: rgb(255, 0, 0);
+  color: white;
+  margin: 0%;
+  padding: 10px;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
